@@ -8,7 +8,6 @@
 
  [M1 Macは初期化＆再インストール方法が違う](https://www.youtube.com/watch?v=VsYi4W7hkpY)
 
-
  初期化する間にやっておくべきこと
 
  [アップル公式](https://support.apple.com/ja-jp/HT201065)
@@ -21,6 +20,9 @@
 
   [safariのパス](https://br.atsit.in/ja/?p=66244)、[google chromeのパス](https://yoshitechblog.com/google-chrome-password-information-confirmation)、[braveのパス](https://lv73.net/brave-password-control-where/)、[パソコンで管理しているパス(キーチェーン)](https://support.apple.com/ja-jp/HT211145#:~:text=Safari%20%E3%81%A7%E4%BF%9D%E5%AD%98%E6%B8%88%E3%81%BF%E3%81%AE%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B&text=%E3%80%8CSafari%E3%80%8D%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC%E3%81%8B%E3%82%89%E3%80%8C%E7%92%B0%E5%A2%83,%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%82%82%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%80%82)
   
+  [保存されたパスワードを一括エクスポートする方法](https://atmarkit.itmedia.co.jp/ait/articles/2006/03/news021.html#:~:text=%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89%E3%82%92CSV%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AB%E4%BF%9D%E5%AD%98%EF%BC%88%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88%EF%BC%89%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF,-Chrome%E3%81%AB%E4%BF%9D%E5%AD%98&text=%E3%81%82%E3%82%8B%E3%81%84%E3%81%AFURL%E3%81%A8%E3%81%97%E3%81%A6%E3%80%8Cchrome%3A%2F%2F,%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88%EF%BC%BD%E3%82%92%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%81%97%E3%81%BE%E3%81%99%E3%80%82)
+
+
   [いざという時、元に戻せるように別のハードディスクにtime machineでバックアップ](https://support.apple.com/ja-jp/mac-backup)
   
   必要なアプリケーションはスクショとっておくと良いかも
@@ -44,7 +46,6 @@
   iMessageからサインアウト
   
   Bluetoothデバイスの解除
-  
 
 - macOSの再インストール（初期化）
   

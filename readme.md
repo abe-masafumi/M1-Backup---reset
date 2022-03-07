@@ -19,7 +19,8 @@
 1. 自分のパソコンを整理整頓する
   
    - [不必要なアプリケーションのアンインストール](https://www.lifehacker.jp/article/206045remember-to-delete-and-unlink-your-accounts-before-dele/)
-   - 画像、動画はハードディスクに保存しよう
+   - 画像、動画はハードディスクに保存しよう(TOSHIBA External USB 3.0 MediaのHDDを使用しているが現在のmacでは使用不可😭不便)
+   他の人も同じことが起きているM1チップのせいではないのかも
    - デスクトップを整理(必要なプロジェクトをgithubなどで管理してデスクトップからは削除)
 
 2. バックアップを作成

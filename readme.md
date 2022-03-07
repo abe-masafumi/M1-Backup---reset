@@ -21,6 +21,7 @@
    - [不必要なアプリケーションのアンインストール](https://www.lifehacker.jp/article/206045remember-to-delete-and-unlink-your-accounts-before-dele/)
    - 画像、動画はハードディスクに保存しよう(TOSHIBA External USB 3.0 MediaのHDDを使用しているが現在のmacでは使用不可😭不便)
    他の人も同じことが起きているM1チップのせいではないのかも。[こちら](https://www.buffalo.jp/support/faq/detail/1199.html)
+   [こっちも](https://soundorbis.com/mac-ex-hdd-ssd-fomat/)
    ついでにmacの悪口。iphoneの遠隔操作ができるツールが全然M1に対応してないからやりたいことができない。最近対応してないツール多すぎて辛い。nreal airもアップル製品の対応が微妙やし、外部ストレージ使えんし、
    次はwindows買います。
    - デスクトップを整理(必要なプロジェクトをgithubなどで管理してデスクトップからは削除)

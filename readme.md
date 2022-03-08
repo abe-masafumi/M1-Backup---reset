@@ -33,7 +33,7 @@ HDDでは使用が困難でしたが、SSDなら問題なく使用できるか�
 
 - [いざという時、元に戻せるように別のハードディスクにtime machineでバックアップ](https://support.apple.com/ja-jp/mac-backup)
 
-3. 機密情報管理
+3. 機密情報管理 (同じパスワードを使い回しているものはこの際セキュリティーを高めるために、変更しよう)
 
 - パスワード類は全てアナログで管理できるようにしておく(暗号化またはhash化したzipファイルをgoogledriveに保存でもいいかも)[メモ帳](https://news.allabout.co.jp/articles/o/27889/)
 
@@ -49,13 +49,13 @@ HDDでは使用が困難でしたが、SSDなら問題なく使用できるか�
 
 - 接続解除 (初期化したパソコンを再度自分で使用する場合は必要ない)
 
-iTunesからサインアウト
+  iTunesからサインアウト
 
-iCloudからサインアウト
+  iCloudからサインアウト
 
-iMessageからサインアウト
+  iMessageからサインアウト
 
-Bluetoothデバイスの解除
+  Bluetoothデバイスの解除
 
 1. macOSの再インストール（初期化）
 

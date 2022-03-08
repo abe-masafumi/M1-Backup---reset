@@ -24,38 +24,39 @@
 [こっちも](https://soundorbis.com/mac-ex-hdd-ssd-fomat/)
 HDDでは使用が困難でしたが、SSDなら問題なく使用できるかも知れない。アップル製品のために周りの環境も買い替えるの必要があるのはデメリット。
 家にあるSDカードが使用できるか試した。問題なく使用できた。SDカードは幅広い機器で使用できるので容量の大きなSDカードを一つ持っておくと便利かも
-ついでにmacの悪口。iphoneの遠隔操作ができるツールが全然M1に対応してないからやりたいことができない。最近対応してないツール多すぎて辛い。nreal airもアップル製品の対応が微妙やし、外部ストレージ使えんし、
+
+ついでにmacの悪口。iphoneの遠隔操作ができるツールが全然M1に対応してないからやりたいことができない。最近対応してないツール多すぎて辛い。nreal airもアップル製品の対応が微妙やし、外部ストレージ使えんし、アップルサポートに問い合わせしたらアップルシリコンに対応していないものは難しいの一点張り、究極のど素人が出てきてイラッとした。
 次はwindows買います。
 - デスクトップを整理(必要なプロジェクトをgithubなどで管理してデスクトップからは削除)
 
 2. バックアップを作成
-   
-   - [いざという時、元に戻せるように別のハードディスクにtime machineでバックアップ](https://support.apple.com/ja-jp/mac-backup)
+
+- [いざという時、元に戻せるように別のハードディスクにtime machineでバックアップ](https://support.apple.com/ja-jp/mac-backup)
 
 3. 機密情報管理
-   
-   - パスワード類は全てアナログで管理できるようにしておく(暗号化またはhash化したzipファイルをgoogledriveに保存でもいいかも)[メモ帳](https://news.allabout.co.jp/articles/o/27889/)
 
-   - [safariのパス](https://br.atsit.in/ja/?p=66244)、[google chromeのパス](https://yoshitechblog.com/google-chrome-password-information-confirmation)、[braveのパス](https://lv73.net/brave-password-control-where/)、[パソコンで管理しているパス(キーチェーン)](https://support.apple.com/ja-jp/HT211145#:~:text=Safari%20%E3%81%A7%E4%BF%9D%E5%AD%98%E6%B8%88%E3%81%BF%E3%81%AE%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B&text=%E3%80%8CSafari%E3%80%8D%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC%E3%81%8B%E3%82%89%E3%80%8C%E7%92%B0%E5%A2%83,%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%82%82%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%80%82)
+- パスワード類は全てアナログで管理できるようにしておく(暗号化またはhash化したzipファイルをgoogledriveに保存でもいいかも)[メモ帳](https://news.allabout.co.jp/articles/o/27889/)
 
-   - [保存されたパスワードを一括エクスポートする方法](https://atmarkit.itmedia.co.jp/ait/articles/2006/03/news021.html#:~:text=%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89%E3%82%92CSV%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AB%E4%BF%9D%E5%AD%98%EF%BC%88%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88%EF%BC%89%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF,-Chrome%E3%81%AB%E4%BF%9D%E5%AD%98&text=%E3%81%82%E3%82%8B%E3%81%84%E3%81%AFURL%E3%81%A8%E3%81%97%E3%81%A6%E3%80%8Cchrome%3A%2F%2F,%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88%EF%BC%BD%E3%82%92%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%81%97%E3%81%BE%E3%81%99%E3%80%82)
+- [safariのパス](https://br.atsit.in/ja/?p=66244)、[google chromeのパス](https://yoshitechblog.com/google-chrome-password-information-confirmation)、[braveのパス](https://lv73.net/brave-password-control-where/)、[パソコンで管理しているパス(キーチェーン)](https://support.apple.com/ja-jp/HT211145#:~:text=Safari%20%E3%81%A7%E4%BF%9D%E5%AD%98%E6%B8%88%E3%81%BF%E3%81%AE%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89%E3%82%92%E8%A1%A8%E7%A4%BA%E3%81%99%E3%82%8B&text=%E3%80%8CSafari%E3%80%8D%E3%83%A1%E3%83%8B%E3%83%A5%E3%83%BC%E3%81%8B%E3%82%89%E3%80%8C%E7%92%B0%E5%A2%83,%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%82%82%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%80%82)
 
-  ※ エクスポートしたCSVファイルは googleとbraveは共通のフォーマット,safariは少しフォーマットが違うので注意(エクスポートしたCSVファイルはインポートもできる)
+- [保存されたパスワードを一括エクスポートする方法](https://atmarkit.itmedia.co.jp/ait/articles/2006/03/news021.html#:~:text=%E3%83%91%E3%82%B9%E3%83%AF%E3%83%BC%E3%83%89%E3%82%92CSV%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AB%E4%BF%9D%E5%AD%98%EF%BC%88%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88%EF%BC%89%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF,-Chrome%E3%81%AB%E4%BF%9D%E5%AD%98&text=%E3%81%82%E3%82%8B%E3%81%84%E3%81%AFURL%E3%81%A8%E3%81%97%E3%81%A6%E3%80%8Cchrome%3A%2F%2F,%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88%EF%BC%BD%E3%82%92%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%81%97%E3%81%BE%E3%81%99%E3%80%82)
+
+※ エクスポートしたCSVファイルは googleとbraveは共通のフォーマット,safariは少しフォーマットが違うので注意(エクスポートしたCSVファイルはインポートもできる)
 
 4. 必要なアプリケーションはスクショとっておくと良いかも(不必要なアプリケーションもあるので新しい環境では必要なものだけ再度インストールする方がいい)
-  
-  - 設定の確認（マウスなどのカスタム設定）の設定画面をスクショしておくと良いかも
 
-  - 接続解除 (初期化したパソコンを再度自分で使用する場合は必要ない)
+- 設定の確認（マウスなどのカスタム設定）の設定画面をスクショしておくと良いかも
 
-    iTunesからサインアウト
+- 接続解除 (初期化したパソコンを再度自分で使用する場合は必要ない)
 
-    iCloudからサインアウト
+iTunesからサインアウト
 
-    iMessageからサインアウト
+iCloudからサインアウト
 
-    Bluetoothデバイスの解除
+iMessageからサインアウト
+
+Bluetoothデバイスの解除
 
 1. macOSの再インストール（初期化）
-  
-  - M1マックは初期化手順が違うので注意！バグの原因になる
+
+- M1マックは初期化手順が違うので注意！バグの原因になる

@@ -111,6 +111,7 @@ Braveのウォレット追加
 
 Vscodeをインストール
 拡張機能と設定は後で
+https://zenn.dev/ryuu/scraps/4061aaee059d89
 
 ### コマンド類を使えるようにしたい。
 
@@ -124,6 +125,19 @@ https://tracpath.com/bootcamp/git-install-to-mac.html
 git コマンドは使えるがgitとの連結ができていないので連結する
 https://mae.chab.in/archives/2306
 https://zenn.dev/schnell/articles/0e1c2e9db5c08d
+
+pythonのインストール
+https://www.python.jp/install/macos/install_python.html
+https://freeheroblog.com/brew-python/
+https://gallard316.hatenablog.com/entry/2020/11/24/185634
+homebrewでpythonをインストールしてもpipが使えなかったが安心してください
+
+nodeのインストール
+
+
+vscodeの設定
+
+
 
 
 
